@@ -1,0 +1,15 @@
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\bin\Debug\net8.0\TradeClassifier.Application.deps.json
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\bin\Debug\net8.0\TradeClassifier.Application.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\bin\Debug\net8.0\TradeClassifier.Application.pdb
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\bin\Debug\net8.0\TradeClassifier.Domain.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\bin\Debug\net8.0\TradeClassifier.Domain.pdb
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.csproj.AssemblyReference.cache
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.AssemblyInfoInputs.cache
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.AssemblyInfo.cs
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeCla.08FA5873.Up2Date
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\refint\TradeClassifier.Application.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\TradeClassifier.Application.pdb
+C:\Users\jeferson.almeida\source\TradeClassifier\Application\TradeClassifier.Application\obj\Debug\net8.0\ref\TradeClassifier.Application.dll

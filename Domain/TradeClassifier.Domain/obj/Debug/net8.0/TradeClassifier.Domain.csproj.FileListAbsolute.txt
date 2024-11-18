@@ -1,0 +1,11 @@
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\bin\Debug\net8.0\TradeClassifier.Domain.deps.json
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\bin\Debug\net8.0\TradeClassifier.Domain.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\bin\Debug\net8.0\TradeClassifier.Domain.pdb
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.AssemblyInfoInputs.cache
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.AssemblyInfo.cs
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\refint\TradeClassifier.Domain.dll
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\TradeClassifier.Domain.pdb
+C:\Users\jeferson.almeida\source\TradeClassifier\Domain\TradeClassifier.Domain\obj\Debug\net8.0\ref\TradeClassifier.Domain.dll
